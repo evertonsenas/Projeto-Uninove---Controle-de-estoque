@@ -20,4 +20,8 @@ O projeto está dividido em 3 arquivos e abaixo explicaremos o que cada arquivo 
 Na guia "Design" temos o esquema visual da aplicação.
 Na guia Source" temos os códigos que permite o funcionamento da aplicação.
 
-2 - 
+2 - estoque_usuarios:
+  2.a - Estrutura da tabela de usuários
+
+3 - estoque_produto:
+  3.a - Estrutura da tabela de produtos
